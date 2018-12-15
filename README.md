@@ -8,3 +8,4 @@ commit 3
 checkers
 coompletely diff
 completely diff 1
+none
